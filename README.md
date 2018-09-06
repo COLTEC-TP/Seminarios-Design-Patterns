@@ -4,7 +4,7 @@
 
 **Valor: 10 pontos**
 
-**Grupos de 5 alunos**
+**Grupos de 4 alunos**
 
 **Apresentação: 13/09/2018**
 
