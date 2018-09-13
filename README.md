@@ -42,3 +42,7 @@ Cada grupo terá entre 10 e 15 minutos para apresentação. Sua apresentação d
 ## Entrega
 
 Os slides e demais materiais utilizados na apresentação deverão ser entregues por meio de pull request neste repositório.
+
+## SLIDE
+
+https://docs.google.com/presentation/d/1LmStC5mhWqFHOZJmvo_ye4b5xHv6AnO9hMenl_I0yLc/edit?usp=sharing
